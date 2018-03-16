@@ -1,5 +1,5 @@
 # Spring_JPA_Rest_MySQL
-Only testting Spring Boot<BR>
+Only testing Spring Boot<BR>
 -- Dumping database structure for concretepage<BR>
 CREATE DATABASE IF NOT EXISTS `concretepage`;<BR>
 USE `concretepage`;<BR>
